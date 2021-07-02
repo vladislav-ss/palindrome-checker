@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Palindrome Checker</title>
+</head>
+<body>
+    <div class="desc">
+        <h1>Palindrome Checker</h1>
+        <h2>Type something in the box below and see if it is a palindrome or not. You can insert marks as well, it does not count them or blank spaces either.</h2>
+    </div>
+    
+    <div class="inputbox">
+        <input type="text" id="string" placeholder="Type to check">
+        <button onclick="checkPalindrome()" id="checkbutton"><img src="./icons/go.svg" alt=""></button>
+    </div>
+ 
+    <div class="result">
+        <img src="#" alt="" id="resicon" class="">
+        <span id="display"></span>
+    </div>
+    <div class="sub">
+        <p>Developed by Vladislav S. as an exercise</p>
+        <p>You can check the code <a href="https://github.com/vladislavscr/palindrome-checker" target="_blank">HERE (GitHub)</a><p>
+        <p>July 2021</p>
+      </div>
+
+    <script src="app.js"></script>  
+</body>
+</html>
