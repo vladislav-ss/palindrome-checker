@@ -10,7 +10,7 @@ It has been made using native JS, CSS and HTML.
 
 I have made this app as an exercise, but also to learn more and practice on my front end and general programming skills and knowledge.
 
-You can try out the app <a href="https://vladislavscr.github.io/palindrome-checker/">HERE (GitHub pages)</a>.
+You can try out the app <a href="https://vladislav-ss.github.io/palindrome-checker/">HERE (GitHub pages)</a>.
 
 Thank you for checking this out.
 
